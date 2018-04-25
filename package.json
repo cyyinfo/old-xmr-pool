@@ -1,0 +1,26 @@
+{
+    "name": "cryptonote-nodejs-pool",
+    "version": "1.2.9",
+    "license": "GPL-2.0",
+    "author": "Daniel Vandal",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dvandal/cryptonote-nodejs-pool.git"
+    },
+    "dependencies": {
+        "bignum": "*",
+        "async": "1",
+        "redis": "*",
+        "cli-color": "*",
+        "dateformat": "*",
+        "base58-native": "*",
+        "nodemailer": "2.7.2",
+        "nodemailer-sendmail-transport": "*",
+        "mailgun.js": "*",
+        "cryptonight-hashing": "./node-cryptonight-hashing",
+        "cryptonote-util": "./node-cryptonote-util"
+    },
+    "engines": {
+        "node": ">=4.0"
+    }
+}
