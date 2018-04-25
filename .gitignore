@@ -1,0 +1,6 @@
+node_modules/
+build/
+logs/
+package-lock.json
+node-cryptonote-util/build/
+node-cryptonight-hashing/build/
