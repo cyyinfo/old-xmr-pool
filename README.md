@@ -1,4 +1,4 @@
-cryptonote-nodejs-pool
+老门罗算法山寨币矿池
 ======================
 
 High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, DuckNote, Monero, QuazarCoin, Boolberry, Dashcoin, GRAFT, SUPERIORCOIN etc. Comes with lightweight example front-end script which uses the pool's AJAX API.
