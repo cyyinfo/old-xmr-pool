@@ -1,8 +1,9 @@
 老门罗算法山寨币矿池
 ======================
 
-High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as Bytecoin, DuckNote, Monero, QuazarCoin, Boolberry, Dashcoin, GRAFT, SUPERIORCOIN etc. Comes with lightweight example front-end script which uses the pool's AJAX API.
-
+加入我的星球，提供全方位的技术指导，与服务。少走弯路，直达终点。
+----
+<img width="400" src="http://octk4wj3v.bkt.clouddn.com/get-money-xingqiu.jpg">
 
 
 #### Table of Contents
