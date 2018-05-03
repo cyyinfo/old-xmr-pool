@@ -5,6 +5,8 @@
 ----
 <img width="400" src="http://octk4wj3v.bkt.clouddn.com/get-money-xingqiu.jpg">
 
+## 新门罗币矿池地址
+https://github.com/cyyinfo/cryptonote-xmr-pool
 
 #### Table of Contents
 * [Features](#features)
